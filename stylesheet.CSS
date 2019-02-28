@@ -1,0 +1,26 @@
+body{
+	text-align: center;
+	font-family: arial;
+	margin: 0 auto; 
+	background-color: #A3A66D;
+}
+
+.container{
+	width: 80%;
+	margin 0 auto; 
+}
+
+h1{
+	color: red;
+}
+
+img { 
+width: 60%;
+}
+
+h2 { 
+	color: #260301;
+	border: 1px solid black;
+	margin: 50px;
+	padding: 30px;
+ }
